@@ -1,1 +1,3 @@
+# Klasifikacija moždanih tumora tehnologijom MRI
 
+Moždani tumori smatraju se jednom od najagresivnijih bolesti koja zahvaća i djecu i odrasle. Oni obuhvaćaju čak 85-90% ukupnog broja dijagnosticiranih tumora središnjeg živčanog sustava, a svake godine dijagnozu moždanog tumora primi oko 11700 pacijenata. Moždani tumori mogu se grupirati u nekoliko različitih klasa, a najbolja tehnologija ili metoda za detekciju jest upravo MRI, odnosno magnetska rezonanca. U ovom projektu analizirat ćemo slike magnetskih rezonanca mozgova te iste klasificirati prema karakteristikama tumora (maligni, benigni i dr.) pri čemu ćemo koristiti metoda strojnog i dubokog učenja.
