@@ -1,0 +1,43 @@
+
+@inproceedings{ramdlon2019brain,
+  title={Brain tumor classification using MRI images with K-nearest neighbor method},
+  author={Ramdlon, Rafi Haidar and Kusumaningtyas, Entin Martiana and Karlita, Tita},
+  booktitle={2019 International Electronics Symposium (IES)},
+  pages={660--667},
+  year={2019},
+  organization={IEEE}
+}
+@inproceedings{wasule2017classification,
+  title={Classification of brain MRI using SVM and KNN classifier},
+  author={Wasule, Vijay and Sonar, Poonam},
+  booktitle={2017 Third International Conference on Sensing, Signal Processing and Security (ICSSS)},
+  pages={218--223},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{kibriya2021multiclass,
+  title={Multiclass Brain Tumor Classification Using Convolutional Neural Network and Support Vector Machine.},
+  author={Kibriya, Hareem and Masood, Momina and Nawaz, Marriam and Rafique, Rimsha and Rehman, Safia},
+  booktitle={2021 Mohammad Ali Jinnah University International Conference on Computing (MAJICC)},
+  pages={1--4},
+  year={2021},
+  organization={IEEE}
+}
+@inproceedings{chelghoum2020transfer,
+  title={Transfer learning using convolutional neural network architectures for brain tumor classification from MRI images},
+  author={Chelghoum, Rayene and Ikhlef, Ameur and Hameurlaine, Amina and Jacquir, Sabir},
+  booktitle={IFIP International Conference on Artificial Intelligence Applications and Innovations},
+  pages={189--200},
+  year={2020},
+  organization={Springer}
+}
+
+@inproceedings{das2019brain,
+  title={Brain tumor classification using convolutional neural network},
+  author={Das, Sunanda and Aranya, OFM Riaz Rahman and Labiba, Nishat Nayla},
+  booktitle={2019 1st International Conference on Advances in Science, Engineering and Robotics Technology (ICASERT)},
+  pages={1--5},
+  year={2019},
+  organization={IEEE}
+}
